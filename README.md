@@ -39,4 +39,4 @@ In this repository, I am developing a machine learning model to detect fraudulen
 
 ### Deployment
 
-I am developing a Flask app to predict anomalies on the fly using Flask APIs, enabling real-time fraud detection. [Flask APP](https://github.com/Jatin-Mehra119/Flask-APP-CreditCard-fraud-Detections-)
+I am developing a Flask API to predict anomalies on the fly using Flask APIs, enabling real-time fraud detection. [Flask APP](https://github.com/Jatin-Mehra119/Flask-API-CreditCard-fraud-Detections-)
